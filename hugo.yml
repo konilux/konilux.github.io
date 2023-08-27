@@ -1,0 +1,43 @@
+baseURL: ""
+languageCode: en-us
+title: KoniTalkie
+theme: PaperMod
+
+params:
+  profileMode:
+    enabled: true
+    title: "Hi! I'm KoniLux"
+    subtitle: "At least, that is the name I go by online. I am a 15 year old shut-in currently learning about his life. This is my temporary platform for my blogs containing topics of my interest (life, movies, books, music, etc.)"
+    imageUrl: img/pfp/komi-stressed.gif
+    buttons:
+      - name: Categories
+        url: "/categories"
+      - name: Tags
+        url: "/tags"
+      - name: Archives
+        url: "/archives"
+  socialIcons:
+    - name: "discord"
+      url: "https://discord.com/users/830702151990509568"
+
+  assets:
+    disableHLJS: true
+    favicon: ico/favicon.ico
+
+  showBreadCrumbs: true
+  showReadingTime: true
+  showPostNavLinks: true
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on KoniTalkie</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on KoniTalkie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Aug 2023 10:58:48 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I&#39;m Not as Smart as Everybody Says</title>
+      <link>/posts/01/</link>
+      <pubDate>Sun, 27 Aug 2023 10:58:48 +0800</pubDate>
+      
+      <guid>/posts/01/</guid>
+      <description>In my day-to-day life, I would always encounter people excessively relying on me, especially on subjects like Science, English, and Math. I would also encounter people giving me a stern look, calling me a &amp;ldquo;know-it-all&amp;rdquo;. Sure, I recently reached some high achievements in class. But despite that, I genuinely think that I am no smarter than everybody else in my program, and I&amp;rsquo;m slowly growing tired of being treated otherwise because of the pressure and high expectations being brought on to me.</description>
+    </item>
+    
+  </channel>
+</rss>
