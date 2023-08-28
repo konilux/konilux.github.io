@@ -7,7 +7,7 @@ params:
   profileMode:
     enabled: true
     title: "Hi! I'm KoniLux"
-    subtitle: "At least, that is the name I go by online. I am a 15 year old shut-in currently learning about his life. This is my temporary platform for my blogs containing topics of my interest (life, movies, books, music, etc.)"
+    subtitle: "At least, that is the name I go by online. I am a 15 year old shut-in currently catching up on his life. This is my temporary platform for my blogs containing topics of my interest (life, movies, books, music, etc.)"
     imageUrl: img/pfp/komi-stressed.gif
     buttons:
       - name: Categories
