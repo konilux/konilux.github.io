@@ -1,20 +1,71 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on KoniTalkie</title>
-    <link>/posts/</link>
+    <link>https://konilux.github.io/posts/</link>
     <description>Recent content in Posts on KoniTalkie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Aug 2023 10:58:48 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Nov 2023 07:01:32 +0800</lastBuildDate>
+    <atom:link href="https://konilux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Making my Way to Linux</title>
+      <link>https://konilux.github.io/posts/08/</link>
+      <pubDate>Thu, 02 Nov 2023 07:01:32 +0800</pubDate>
+      <guid>https://konilux.github.io/posts/08/</guid>
+      <description>Well, not even a day had passed when I finally decided to dual boot Windows and Linux. And so, I grabbed a USB of mine and started up Rufus. I did all of the installation thinamajig, and before I knew it, I was finally running POP!_OS. This is my first time not using a virtual machine and installing a different operating system on a bare-bones machine, let alone dual booting two of them in one drive.</description>
+    </item>
+    <item>
+      <title>On Desktop Customization</title>
+      <link>https://konilux.github.io/posts/07/</link>
+      <pubDate>Wed, 01 Nov 2023 07:01:32 +0800</pubDate>
+      <guid>https://konilux.github.io/posts/07/</guid>
+      <description>With finally having a computer with Windows 11 installed, I was quite refreshed seeing a brand new face on the operating system I&amp;rsquo;ve used for all of my childhood. It also reminded me of this phase of mind where I would go out of my way just to customize it to my heart&amp;rsquo;s content, pushing the limits of the computer in the process. There was just a sparkle to me in seeing the computer in an appearance I want, especially when I feel inspired from looking at r/desktops and r/unixporn.</description>
+    </item>
+    <item>
+      <title>Deleting Social Media</title>
+      <link>https://konilux.github.io/posts/06/</link>
+      <pubDate>Wed, 01 Nov 2023 05:59:42 +0800</pubDate>
+      <guid>https://konilux.github.io/posts/06/</guid>
+      <description>I&amp;rsquo;ve noticed big time gaps for whenever I post on this website. I think it&amp;rsquo;s probably because I also have social media apps to post my feelings on, especially Facebook. I believe I already have three accounts there already, one for each paradigms of my personality. But, now that I&amp;rsquo;ve deleted all those social media apps on my phone and Ipad (Facebook, Youtube, Twitter/X, etc.) altogether, I can probably have more time expressing my thoughts here and in my personal journal in real life.</description>
+    </item>
+    <item>
+      <title>Chronic Digital Addiction</title>
+      <link>https://konilux.github.io/posts/05/</link>
+      <pubDate>Mon, 25 Sep 2023 20:31:00 +0800</pubDate>
+      <guid>https://konilux.github.io/posts/05/</guid>
+      <description>I’ve been met with a heavy feeling lately, as if something was making my life worse. All these headaches I’ve been having, my poor performances in the past, all of those things had me wondering for a long time about the source of my issues. That is, until one day, I’ve finally narrowed it down to my gadgets.
+I don’t really know if it’s because of the self-help and philosophical books I’ve read, but all of a sudden I just wanted to get my life straight.</description>
+    </item>
+    <item>
+      <title>A Perspective of a Hopeless Romantic</title>
+      <link>https://konilux.github.io/posts/04/</link>
+      <pubDate>Sun, 24 Sep 2023 06:30:03 +0800</pubDate>
+      <guid>https://konilux.github.io/posts/04/</guid>
+      <description>It may not look like it, but that’s the truth of the matter. I’m a huge hopeless romantic. The genre I’m always craving for is romance and tragedy. I love love and its many complex forms. It can be a really heartwarming and fuzzy feeling for the soul.
+My first experiences with love was quite a fascinating feeling. My heart started beating faster than normal, I started seeing the world in a more vibrant perspective, they would intrude my thoughts more often, and I couldn’t even look at the person in the eyes because if I do I would start smiling involuntarily.</description>
+    </item>
+    <item>
+      <title>Overwhelming</title>
+      <link>https://konilux.github.io/posts/03/</link>
+      <pubDate>Sun, 24 Sep 2023 06:29:56 +0800</pubDate>
+      <guid>https://konilux.github.io/posts/03/</guid>
+      <description>Ah, life. It’s what might be a minute phenomenon in an insignificant point of the universe. And yet, even this minuscule point strives for order and freedom by following thousands upon thousands of rules and standards. If you sit down and think deeply about anything, life shows its complexity. Life, in reality, is very complex indeed, and it can be pretty overwhelming.
+By the time you are born into the world, you are provided by parents that you can only hope treats you well.</description>
+    </item>
+    <item>
+      <title>Team Fortress 2 and Its Lasting Community</title>
+      <link>https://konilux.github.io/posts/02/</link>
+      <pubDate>Mon, 28 Aug 2023 13:22:43 +0800</pubDate>
+      <guid>https://konilux.github.io/posts/02/</guid>
+      <description>As a shut-in child isolated from the outside world, gaming has been a big hobby of mine. It all began when my father introduced me to my first computer game, Counter-Strike 1.6. As I grew up, I began to delve into other games, but I mostly leaned on singleplayer games. But on the side of multiplayer games, one of the games where I felt a big connection with the playerbase was with Team Fortress 2.</description>
+    </item>
     <item>
       <title>I&#39;m Not as Smart as Everybody Says</title>
-      <link>/posts/01/</link>
+      <link>https://konilux.github.io/posts/01/</link>
       <pubDate>Sun, 27 Aug 2023 10:58:48 +0800</pubDate>
-      
-      <guid>/posts/01/</guid>
+      <guid>https://konilux.github.io/posts/01/</guid>
       <description>In my day-to-day life, I would always encounter people excessively relying on me, especially on subjects like Science, English, and Math. I would also encounter people giving me a stern look, calling me a &amp;ldquo;know-it-all&amp;rdquo;. Sure, I recently reached some high achievements in class. But despite that, I genuinely think that I am no smarter than everybody else in my program, and I&amp;rsquo;m slowly growing tired of being treated otherwise because of the pressure and high expectations being brought on to me.</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>pressure on KoniTalkie</title>
-    <link>/tags/pressure/</link>
+    <link>https://konilux.github.io/tags/pressure/</link>
     <description>Recent content in pressure on KoniTalkie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Aug 2023 10:58:48 +0800</lastBuildDate><atom:link href="/tags/pressure/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Sep 2023 06:29:56 +0800</lastBuildDate>
+    <atom:link href="https://konilux.github.io/tags/pressure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overwhelming</title>
+      <link>https://konilux.github.io/posts/03/</link>
+      <pubDate>Sun, 24 Sep 2023 06:29:56 +0800</pubDate>
+      <guid>https://konilux.github.io/posts/03/</guid>
+      <description>Ah, life. It’s what might be a minute phenomenon in an insignificant point of the universe. And yet, even this minuscule point strives for order and freedom by following thousands upon thousands of rules and standards. If you sit down and think deeply about anything, life shows its complexity. Life, in reality, is very complex indeed, and it can be pretty overwhelming.
+By the time you are born into the world, you are provided by parents that you can only hope treats you well.</description>
+    </item>
     <item>
       <title>I&#39;m Not as Smart as Everybody Says</title>
-      <link>/posts/01/</link>
+      <link>https://konilux.github.io/posts/01/</link>
       <pubDate>Sun, 27 Aug 2023 10:58:48 +0800</pubDate>
-      
-      <guid>/posts/01/</guid>
+      <guid>https://konilux.github.io/posts/01/</guid>
       <description>In my day-to-day life, I would always encounter people excessively relying on me, especially on subjects like Science, English, and Math. I would also encounter people giving me a stern look, calling me a &amp;ldquo;know-it-all&amp;rdquo;. Sure, I recently reached some high achievements in class. But despite that, I genuinely think that I am no smarter than everybody else in my program, and I&amp;rsquo;m slowly growing tired of being treated otherwise because of the pressure and high expectations being brought on to me.</description>
     </item>
-    
   </channel>
 </rss>

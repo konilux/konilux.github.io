@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>community on KoniTalkie</title>
+    <link>https://konilux.github.io/tags/community/</link>
+    <description>Recent content in community on KoniTalkie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Aug 2023 13:22:43 +0800</lastBuildDate>
+    <atom:link href="https://konilux.github.io/tags/community/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Team Fortress 2 and Its Lasting Community</title>
+      <link>https://konilux.github.io/posts/02/</link>
+      <pubDate>Mon, 28 Aug 2023 13:22:43 +0800</pubDate>
+      <guid>https://konilux.github.io/posts/02/</guid>
+      <description>As a shut-in child isolated from the outside world, gaming has been a big hobby of mine. It all began when my father introduced me to my first computer game, Counter-Strike 1.6. As I grew up, I began to delve into other games, but I mostly leaned on singleplayer games. But on the side of multiplayer games, one of the games where I felt a big connection with the playerbase was with Team Fortress 2.</description>
+    </item>
+  </channel>
+</rss>

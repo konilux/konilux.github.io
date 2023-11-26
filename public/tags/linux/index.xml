@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linux on KoniTalkie</title>
+    <link>https://konilux.github.io/tags/linux/</link>
+    <description>Recent content in linux on KoniTalkie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Nov 2023 07:01:32 +0800</lastBuildDate>
+    <atom:link href="https://konilux.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Making my Way to Linux</title>
+      <link>https://konilux.github.io/posts/08/</link>
+      <pubDate>Thu, 02 Nov 2023 07:01:32 +0800</pubDate>
+      <guid>https://konilux.github.io/posts/08/</guid>
+      <description>Well, not even a day had passed when I finally decided to dual boot Windows and Linux. And so, I grabbed a USB of mine and started up Rufus. I did all of the installation thinamajig, and before I knew it, I was finally running POP!_OS. This is my first time not using a virtual machine and installing a different operating system on a bare-bones machine, let alone dual booting two of them in one drive.</description>
+    </item>
+  </channel>
+</rss>
