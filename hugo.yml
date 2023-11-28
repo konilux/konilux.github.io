@@ -4,21 +4,10 @@ title: KoniTalkie
 theme: PaperMod
 
 params:
-  profileMode:
-    enabled: true
-    title: "Hi! I'm KoniLux"
-    subtitle: "At least, that is the name I go by online. I am a 15 year old shut-in currently catching up on his life. This is my temporary platform for my blogs containing topics of my interest (life, movies, books, music, etc.)"
-    imageUrl: img/pfp/pfp.gif
-    buttons:
-      - name: Categories
-        url: "/categories"
-      - name: Tags
-        url: "/tags"
-      - name: Archives
-        url: "/archives"
-  socialIcons:
-    - name: "discord"
-      url: "https://discord.com/users/830702151990509568"
+  homeInfoParams:
+    Title: Heyas! Konilux Here!
+    Content: "I'm just some random 16 year old on the internet who posts his thoughts on an obscure website for fun! I mostly do talk about my interest in a wide range of areas so I hope you enjoy your stay here! Sorry if you don't enjoy it though. I just wanted a place I could call my own, is all. Eheheheh!"
+
 
   assets:
     disableHLJS: true
